@@ -1,4 +1,4 @@
-# kukujade.github.io
-Kyle Jade Castro
+### kukujade.github.io
+*Kyle Jade Castro*
 
-LG Brebeuf
+LG **Brebeuf**
